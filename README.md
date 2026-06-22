@@ -1,7 +1,6 @@
 # Multiagente de Marketing
 
-Imagine contratar, de uma só vez, uma equipe de marketing: um estrategista de marca, um editor de conteúdo, um especialista em anúncios pagos e um diretor (CMO) para juntar tudo num plano coerente. Esse projeto faz exatamente isso — usando automação no **n8n** e inteligência artificial.
-
+A equipe de marketing é composta por um estrategista de marca, um editor de conteúdo, um especialista em anúncios pagos e um diretor (CMO) para juntar tudo num plano coerente. 
 Você informa o contexto da campanha (negócio, objetivo, público e orçamento) e recebe, em poucos minutos, um **plano de marketing para 90 dias** pronto para revisar e executar.
 
 ## Os agentes e o que cada um faz
